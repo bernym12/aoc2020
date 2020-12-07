@@ -1,5 +1,5 @@
 from sys import argv
-import yaml
+
 '''
 Reads in any text file and returns a list of the data in that file
 @param input_text - the file to be read from
